@@ -1,5 +1,5 @@
 %求译码正确个数：
-function a=same(msg,new_msg)
+function a=same(msg,new_msg)//zhihanshu
 temp=0;
 [N,M]=size(msg);
 for i=1:N
